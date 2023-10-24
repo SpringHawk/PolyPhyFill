@@ -21,3 +21,6 @@ trimesh
 PyMCubes
 scikit-image
 path
+pycollada
+open3d
+meshlib
